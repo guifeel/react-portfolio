@@ -1,0 +1,12 @@
+{
+  "rules": {},
+  "extends": [],
+  "overrides": [
+    {
+      "files": ["**/*.js"],
+      "rules": {
+        "eslint-disable-next-line": "off"
+      }
+    }
+  ]
+}
