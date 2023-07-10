@@ -36,7 +36,7 @@ const Testimonials = () => {
   return (
     <section id="testimonials">
       <h5>来自客户的评论</h5>
-      <h2>推荐</h2>
+      <h2>推荐人</h2>
       <Swiper
         className="container testimonials__container"
         // install Swiper modules
