@@ -9,7 +9,7 @@ const Header = () => {
     <header>
       <div className="container header__container">
         <h5>你好，我是</h5>
-        <h1>雷诺</h1>
+        <h2>雷诺</h2>
         <h5 className="text-light">全栈工程师</h5>
         <CTA />
 
@@ -18,7 +18,7 @@ const Header = () => {
         </div>
 
         <a href="#contact" className="scroll__down">
-          Scroll Down
+          向下划动
         </a>
 
         <HeaderSocials />

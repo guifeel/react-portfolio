@@ -1,4 +1,3 @@
-import "./App.css";
 import Header from "./components/header/Header.jsx";
 import Nav from "./components/nav/Nav.jsx";
 import About from "./components/about/About.jsx";
